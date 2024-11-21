@@ -1,0 +1,1 @@
+I treid to learn as much as I can about KNN, decision tree, and different types of clustering and implement using prebuilt models in sklearn, but I sadly didn't get the chance to code them myself.
